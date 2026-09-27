@@ -1,5 +1,6 @@
 .env
 .env.bak
+package-lock.json.bak
 .dockerignore
 data/
 node_modules/
