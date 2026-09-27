@@ -93,7 +93,7 @@ class SetupService {
       apiKey: apiKey,
       model: model
     };
-    console.log('Custom AI config:', config);
+    console.log('Custom AI config:', { ...config, apiKey: config.apiKey ? '******' : config.apiKey });
     try {
       const openai = new OpenAI({ 
         apiKey: config.apiKey, 
