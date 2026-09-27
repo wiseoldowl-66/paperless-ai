@@ -41,3 +41,17 @@ rag.ejs.old
 surya_env/
 ocr_server.py
 surya_models.py
+
+# Claude Code sandbox stubs (not real project files)
+.claude/
+.bash_profile
+.bashrc
+.gitconfig
+.gitmodules
+.idea
+.mcp.json
+.profile
+.ripgreprc
+.vscode
+.zprofile
+.zshrc
