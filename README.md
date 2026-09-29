@@ -1,3 +1,5 @@
+This fork serves to maintain major security updates where possible, through package updates. No other changes are planned.
+
 # 📄 Paperless-AI
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/clusterzx/paperless-ai)](https://github.com/clusterzx/paperless-ai/commits/main)
